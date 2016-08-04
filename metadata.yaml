@@ -1,0 +1,31 @@
+_repo: Baron-Trigault-s-Vengeance_547
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gaboriau, Emile
+    alias: Gaboriau, Émile
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '172'
+    url: http://www.gutenberg.org/2009/agents/172
+    wikipedia:
+    - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
+description: Sequel to The Count's Millions. See PG#305
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2008-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '547'
+language: en
+language_note: Translated from the French
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+- !lcsh 'Detective and mystery stories'
+- GITenberg
+title: Baron Trigault's Vengeance
+url: http://www.gutenberg.org/ebooks/547
